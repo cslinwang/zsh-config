@@ -138,12 +138,7 @@ alias 2dl="cd ~/Downloads"
 alias vim='nvim'
 alias vi='nvim'
 
-# anaconda python3
-
-# maven
-
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 export PATH="/usr/local/bin:$PATH"
 
-
-eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+# eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
